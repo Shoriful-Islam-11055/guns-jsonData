@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Root Canal Treatment",
+      "img": "",
+      "description": "I treat Root Canal very carefully This disease is very harmful for the teeth and also for the brain If you want, you can get the service of this disease from me at a very low price Guess from the last 10 years of experience you will definitely win I always work with integrity",
+      "Fee" :"4000Tk",
+	  "rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 2,
+        "name": "Orthodontics Treatment",
+        "img": "",
+		"description": "I treat your orthodontics digitally with the help of modern instruments You can safely take this service by looking at the ratings of those who have already taken this service",
+       "Fee" :"1000Tk",
+	   "rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 3,
+        "name": "Dental Implant",
+        "img": "",
+		"description": "I have done more than two thousand dental implants in the last 10 years The surgeries have also been very successful You can do this if you want Book now without delay ",
+        "Fee" :"3500Tk",
+		"rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 4,
+        "name": "Gum Treatment",
+        "img": "",
+        "description": "The cause of this disease is bad breath For which you can talk to relatives I do Gum Treatment with modern machine with care You will not have any trouble",
+        "Fee" :"1500Tk",
+		"rating": "⭐⭐⭐⭐⭐"
+    },
+    {
+        "id": 5,
+        "name": "Wisdom Tooth Surgery",
+        "img": "",
+        "description": "I can say with confidence that if you do Wisdom Tooth Surgery with me, your teeth will definitely be the same as before. You can eat everything as before I do this surgery without you pain",
+        "Fee" :"2500Tk",
+		"rating": "⭐⭐⭐⭐"
+    },
+    {
+        "id": 6,
+        "name": "Children Dentistry",
+        "img": "",
+        "description": "The disease is also very deadly for children I do the operation carefully You don't understand that he is having an operation",
+        "Fee" :"2000Tk",
+		"rating": "⭐⭐⭐⭐⭐"
+    }
+ 
+  ]
