@@ -1,0 +1,166 @@
+[
+    {
+      "id": 1,
+      "name": "Hero Stomper 16 T Recreation",
+      "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Root-Canal.jpg",
+      "description": "Rim : Double Wall Alloy Rim, Frame : MTB Steel TIG Welded Suspension Frame, Fork : Steel Suspension Fork With Lock System, Handlebar : Steel,  Breakset : Disk Brake Rotor Dia 160mm, Crankset : Steel,  Freewheel : 7 Speed Index 14-28 T, Front Derailleur : Hero Top Swing 31.8 Mm Clamp, Rear Derailleur : RD-TZ50 Direct Install,  Shifter: Hero ST-EF51, Tire : MTB Type.",
+      "price" :"10000Tk",
+	  "supplierName": "Adder Lmt.",
+	  "quantity": "10"
+
+    },
+    {
+        "id": 2,
+        "name": "Urban Terrain UT1000 MTB 27.5 T",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Orthodontics%20Treatment2.jpg",
+		"description": "Rim : Double Wall Alloy Rim, Frame : MTB Steel TIG Welded Frame, Fork : Steel Rigid Fork, Handlebar : Steel, Breakset : Steel V Brake, Brake Lever : Alloy Brake Lever And Plastic Resign, Crankset : Steel, Tire : MTB Type.",
+        "price" :"9000Tk",
+	    "supplierName": "Atlas cvcles Ltm.",
+	    "quantity": "10"
+    },
+    {
+        "id": 3,
+        "name": "Hero Spunky Pro 26 T Hybrid",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Dental%20Implant.jpg",
+		"description": "Rim : Double Wall Alloy Rim, Frame: MTB Steel TIG Welded Frame, Fork: Steel Rigid Fork, Handlebar: Steel, Breakset : Steel V Brake, Brake Lever: Alloy Brake Lever And Plastic Resign, Crankset: Steel, Tire : MTB Type",
+        "price" :"8000Tk",
+        "supplierName": "Bianchi Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 4,
+        "name": "Hero Stomper 16 T Recreation",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Gum-Treatment.jpg",
+        "description": "Frame: MTB Alloy Frame Tig Welded, Internal Cabling, Fork: Alloy Crown Suspension Fork With Lock System, Pedal: Alloy Pedal, Saddle: Pu Foam , With Match Color, Brake Set: Hydraulic Disk Brake Rotor Dia 160mm, BB Set: Cartize Bearing BB, Hub: Alloy Hubs Front And Rear With QR, Free Wheel: MTB 10 Speeds 11-46T, CS-A7, Chain Wheel: 24Tx34x42Tx170MM, 24/34T Silver, 42T ED, Alloy Crank, Front Derailleur:3X10spd Frontderailleur,42t, 34.9mm,Low Clamp.",
+        "price" :"11000Tk",
+        "supplierName": "Combat Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 5,
+        "name": "WaltX Dune 1 26 T Fat Tyre ",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Wisdom%20Tooth%20Surgery.jpg",
+        "description": "Frame: MTB Alloy Frame Tig Welded, Internal Cabling, Fork: Alloy Crown Suspension Fork With Lock System, Pedal: Alloy Pedal, Saddle: Pu Foam , With Match Color, Brake Set: Hydraulic Disk Brake Rotor Dia 160mm, BB Set: Cartize Bearing BB, Hub: Alloy Hubs Front And Rear With QR, Free Wheel: MTB 10 Speeds 11-46T, CS-A7, Chain Wheel: 24Tx34x42Tx170MM, 24/34T Silver, 42T ED, Alloy Crank, Front Derailleur:3X10spd Frontderailleur,42t, 34.9mm,Low Clamp,",
+        "price" :"13000Tk",
+        "supplierName": "Core Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 6,
+        "name": "Hero Sprint Pro Kixs 29 T",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: Alloy: 26 X18 Tig Welded ISO Standard , 6061 Grade Fork Alloy Suspension Fork Balde Dia 38.9mm, Hubs Alloy Hubs With Quick Release, Saddle: High Grade Pu Foam, Brake Set: Artek Disk Brake Rotor Dia 160mm, Handle Bar: Alloy Xavier Series : Raise 30mm, 22.2*600mm, Barbore: 31.8.Mm, Hub: Alloy Hubs Cassete Types Front And Rear 36 Holes For 8 Speed, BB Set Cartridge Types With Bearing.",
+        "price" :"14000Tk",
+        "supplierName": "Poxter Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 7,
+        "name": "Hero Skyper 26T 26 T Mountain",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: MTB Steel TIG Welded Suspension Frame, Fork Steel Suspension Fork, Pedal MTB BMX Peddle,Saddle: Pu Foam , With Match Color, Brake Set: Steel V Brake, Rim: Double Wall Alloy, Freewheel: 7 Speed Index 14-28 T, Chain Wheel: Steel 24/34/42T, Crank Length-170mm With Plastic Gurad",
+        "price" :"10000Tk",
+        "supplierName": "Hero cycles Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 8,
+        "name": "Hero Spunky 26 T Hybrid",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: MTB Steel TIG Welded Suspension Frame, Fork Steel Suspension Fork, Pedal MTB BMX Peddle, Saddle: Pu Foam , With Match Color, Brake Set: Steel V Brake, Rim: Double Wall Alloy, Freewheel: 7 Speed Index 14-28 T, Chain Wheel: Steel 24/34/42T, Crank Length-170mm With Plastic Gurad",
+        "price" :"15000Tk",
+        "supplierName": "Nekro Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 9,
+        "name": "DURANTA ALLO test",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: MTB Steel TIG Welded Frame, Fork Steel Suspension Fork, Pedal MTB BMX Peddle, Saddle: Pu Foam , With Match Color, Brake Set: Disk Brake Rotor Dia 160mm, Rim Double Wall Alloy, QR Alloy Quick Relaease, Chain Wheel: Steel Cotterless With Guard, Mudguard Plastic Downhill Mudguard With Mactch Color Decals Under Clear Decals,Stem Alloy Ahead Types Stem.",
+        "price" :"20000Tk",
+        "supplierName": "Maring Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 10,
+        "name": "Muscular Red 24 Inch",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "rame Size: Alloy: 26 X18 Tig Welded, Fork Steel Suspension Fork With Lock System, Pedal Alloy Pedal, Saddle: Pu Foam , With Match Color, Carrier: N/A, Brake Set: Disk Brake Rotor Dia 160mm, Handle Bar: Steel: Raise 30mm, 22.2*600mm, Barbore: 31.8mm, Rim: Mag Alluminium 6 Blade, Hub: Mag Wheel Adjusted Hubs, Mudguard: N/A, Freewheel: 7 Speed Index 14-28 T, Chain: Steel 1/2'' X 3/32'' Links , 108 Link.",
+        "price" :"12000Tk",
+        "supplierName": "BMW Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 11,
+        "name": "Scorpion Plus Green 24 Inch",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Product Details ,Frame Size: MTB Steel TIG Welded Frame Fork Steel Rigid Fork, Pedal MTB BMX Peddle,Saddle: Pu Foam , With Match Color, Brake Set: Steel V Brake, Rim Double Wall Alloy Hub: Front And Rear 36 Holes, Chain Wheel: Steel Cotterless With Guard, Mudguard Steel MTB Mudguard, Carrier Steel MTB Carrier, Stem Alloy Ahead Types Stem, Brake Lever Alloy Brake Lever And Plastic Resign.",
+        "price" :"13000Tk",
+        "supplierName": "Precious Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 12,
+        "name": "Rider Blue 24 Inch",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "FRAME SIZE: 26 X18, MATERIALS: Alloy, WHEEL SIZE: 26, SADDLE: PU FOAM, BRAKE SET: MECHANICAL TYPE DISC BRAKE, HANDLE BAR: Steel ;Rise:30mm; 600mmL, 6°, RIM: ALLOY Double WALL, HUB: FRONT AND REAR 36 HOLES, FREEWHEEL: 6 Speed Index 14-28 T, CHAIN: Steel 1/2 X 3/32 Links, CHAIN WHEEL: 42 TEETH, BRAKE LEVER: 3 Finger Alloy Lever, STEM: Alloy Stem, Tyre: 26x4.00.",
+        "price" :"17000Tk",
+        "supplierName": "Ghost Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 13,
+        "name": "Speed bird Robust 14 T Road",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "FRAME SIZE: 26 X20, MATERIALS: STEEL, WHEEL SIZE: 26, SADDLE: PU FOAM, CARRIER: STTEL CARRIER, BRAKE SET: STL-26-CPWITH BB SHEEL BOL HANDLE BAR: Handlebar Traditional Type, RIM: Steel, HUB: FRONT 32 HOLES AND REAR 40 HOLES, MUDGUARD & CHAIN COVER: STEEL, FREEWHEEL: 18T, CHAIN: 104 LINK, CHAIN WHEEL: 40 TEETH.",
+        "price" :"16000Tk",
+        "supplierName": "Marine Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 14,
+        "name": "speed bird Robust 14 T Road",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "FRAME SIZE: 700C, MATERIALS: ALLOY, WHEEL SIZE: 28, SADDLE: PU FOAM, BRAKE SET: V BRAKE, HANDLE BAR:;Rise: 30mm;520mmL; 6°, RIM: ALLOY SINGLE WALL HUB: FRONT AND REAR 36 HOLES, FREEWHEEL: 6 Speed Index 14-28 T, REAR DERAILLEUR:TZ-50 6/7-SPEED, CHAIN: Steel 1/2 X 3/32 Links, CHAIN WHEEL: 42 TEETH, BRAKE LEVER: 3 Finger Lever, STEM: STEEL 22.2X30X150mmL HEB, 25 Degree.",
+        "price" :"13000Tk",
+        "supplierName": "Phonix Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 15,
+        "name": "Hero Bonfire 26 T Road",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: Alloy: 26 X18 Tig Welded ISO Standard , 6061 Grade, Fork Alloy Suspension Fork Balde Dia 38.9mm,Hubs Alloy Hubs With Quick Release, Saddle: High Grade Pu Foam, Brake Set: Artek Disk Brake Rotor Dia 160mm,Handle Bar: Alloy Xavier Series : Raise 30mm, 22.2*600mm, Barbore: 31.8.Mm, Hub: Alloy Hubs Cassete Types Front And Rear 36 Holes For 8 Speed, BB Set Cartridge Types With Bearing. Freewheel: Shimano, CASSETTE SPROCKET, CS-HG200-8, 8-SPEED, 12-32 BULK Chain Wheel: Shimano, FC-TY301, Alloy Chain Wheel 24/34/42T, Crank Length-170mm.",
+        "price" :"14000Tk",
+        "supplierName": "Trinx Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 16,
+        "name": "Hero Rapid 26T 26 T ",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: Alloy: 26 X18 Tig Welded ISO Standard , 6061 Grade, Fork Alloy Suspension Fork Balde Dia 38.9mm,Hubs Steel Hubs With 36 Holes, Saddle: High Grade Pu Foam, Brake Set: Artek Disk Brake Rotor Dia 160mm, BB Set Cartridge Types With Bearing, Freewheel: Shimano, CASSETTE SPROCKET, CS-HG200-8, 8-SPEED, 12-32 BULK, Chain Wheel: Steel Chain Wheel 24/34/42T, Crank Length-170mm.",
+        "price" :"19000Tk",
+        "supplierName": "Hoalaxi Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 17,
+        "name": "OMO Model 1.0 26 T Hybrid",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: Alloy: 26 X18 Tig Welded ISO Standard , 6061 Grade Fork Alloy Suspension Fork Balde Dia 38.9mm, Hubs Alloy Hubs With Quick Release, Saddle: High Grade Pu Foam, Brake Set: Artek Disk Brake Rotor Dia 160mm, Handle Bar: Alloy Xavier Series : Raise 30mm, 22.2*600mm, Barbore: 31.8.Mm, Hub: Alloy Hubs Cassete Types Front And Rear 36 Holes For 8 Speed, BB Set Cartridge Types With Bearing.",
+        "price" :"13000Tk",
+        "supplierName": "Python Lmt.",
+        "quantity": "10"
+    },
+    {
+        "id": 18,
+        "name": "Speed bird Robust 14 T",
+        "img": "https://raw.githubusercontent.com/Shoriful-Islam-11055/guns-jsonData/main/dental/Children%20Dentistry.jpg",
+        "description": "Frame Size: MTB Steel TIG Welded Suspension Frame, Fork Steel Suspension Fork, Pedal MTB BMX Peddle, Saddle: Pu Foam , With Match Color, Brake Set: Steel V Brake, Rim: Double Wall Alloy, Freewheel: 7 Speed Index 14-28 T, Chain Wheel: Steel 24/34/42T, Crank Length-170mm With Plastic Gurad",
+        "price" :"15000Tk",
+        "supplierName": "Prince Lmt.",
+        "quantity": "10"
+    }
+ 
+  ]
